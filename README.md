@@ -1,10 +1,4 @@
-- 👋 Hi, I’m building @hustledata - a community for people who like to collaborate and help each other. 
-- 👀 I’m interested in Machine Learning 
-- 💞️ I’m looking to collaborate on projects that make lives easier. 
-- 📫 How to reach me sud@husltedata.io
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing Ukulele
-- 🚀 Gyan: Read more, have fun, strive to create impact on grand scale and be polite when asking what you need. 
+🚀 Read more, have fun, strive to create impact on grand scale and be polite when asking what you need. 
 
 <!---
 hustledata/hustledata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
